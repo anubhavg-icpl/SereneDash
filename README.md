@@ -2,7 +2,7 @@
 
 A visually stunning and minimalist personal dashboard to provide a calm and focused start to your day.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/anubhavg-icpl/SereneDash)
 
 SereneDash is an elegant, minimalist personal dashboard designed to foster focus and tranquility. It replaces the new tab page with a visually calming interface that features a dynamic greeting based on the time of day, a prominent live clock, and a simple, yet powerful, daily focus and to-do list manager. All data is persisted locally for speed and privacy. The design emphasizes clean typography, generous white space, and a subtle, animated gradient background to create a serene digital environment.
 
@@ -73,4 +73,4 @@ This command will build the application and deploy it using the Wrangler CLI.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/anubhavg-icpl/SereneDash)
